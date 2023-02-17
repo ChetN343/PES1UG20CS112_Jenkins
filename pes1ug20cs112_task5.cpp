@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+using namespace std;
 
 int main() {
     cout << "This file is created for task 5";
